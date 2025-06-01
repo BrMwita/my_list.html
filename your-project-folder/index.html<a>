@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy - Pharrell Williams</title>
+</head>
+<body>
+    <div class="album">
+        <!-- Album Cover -->
+        <img src="images/happy-album.jpg" alt="Happy Album Cover Art">
+        
+        <!-- Album Title -->
+        <h1>HAPPY</h1>
+        
+        <!-- Artist Name -->
+        <h2>PHARRELL WILLIAMS</h2>
+        
+        <!-- Movie Attribution -->
+        <p>FROM DESPICABLE ME 2</p>
+        
+        <!-- Release Info -->
+        <div class="release-info">
+            <p>RELEASED 2014</p>
+            <p>℗ 2014 BACK LOT MUSIC UNDER EXCLUSIVE LICENSE TO COLUMBIA RECORDS, A DIVISION OF SONY MUSIC ENTERTAINMENT</p>
+        </div>
+        
+        <!-- Streaming Links -->
+        <div class="streaming-links">
+            <span>STREAMING ON</span>
+            <span>SPOTIFY</span>
+            <span>APPLE MUSIC</span>
+            <span>AMAZON MUSIC</span>
+            <span>DEEZER</span>
+        </div>
+    </div>
+</body>
+</html>
